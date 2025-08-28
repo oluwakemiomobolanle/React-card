@@ -16,7 +16,7 @@ const Header = ({ section }) => {
           </div>
         </div>
         <div className="mobile-navigation md:hidden mb:block">
-          <div className="hambuger h-5 w- flex gap-2 flex-col mr-2">
+          <div className="hambuger h-5 w-5   flex gap-2 flex-col mr-2">
             <div className="bars h-2 w-5 bg-black"></div>
             <div className="bars h-2 w-5 bg-black"></div>
             <div className="bars h-2 w-5 bg-black "></div>
