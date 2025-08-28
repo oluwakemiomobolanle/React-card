@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+/* * {
+  outline: 1px solid red;
+}
+.header {
+  height: 10dvh;
+  background-color: gray;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  background-color: blue;
+}
+.nav img {
+  margin-right: 15rem;
+  height: 30px;
+  width: 30px;
+}
+.desktop-navigation {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+.desktop-navigation ul {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+  margin-left: 35rem;
+  margin-right: 5rem;
+}
+.nav > button {
+  margin-left: 3px;
+}
+span {
+  font-size: 20px;
+}
+button {
+  background: rgb(0, 255, 251);
+  border: none;
+  border-radius: 3px;
+  font-size: 15px;
+  height: 35px;
+  width: 5rem;
+}
+.hidden {
+  display: none;
+}
+.hero-card {
+  height: 20rem;
+  width: 20rem;
+}
+.hambuger {
+  height: 2rem;
+  width: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 0.5rem;
+}
+.bars {
+  height: 0.2rem;
+  width: 2rem;
+  background-color: black;
+}
+.hero {
+  display: flex;
+  justify-content: space-between;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+@media screen and (max-width: 1000px) {
+  .res-block {
+    display: block;
+  }
+  .res-hidden {
+    display: none;
+  }
+
+  .header {
+    height: 8dvh;
+  }
+  .nav img {
+    margin-right: 1rem;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: blue;
+  }
+  .hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+} */
